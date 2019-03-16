@@ -131,15 +131,18 @@
 
 
 /* Small phones: from 0 to 480px */
-@media only screen and (max-width: 480px) {
+@media only screen and 
+(max-width: 480px) and 
+(min-width : 360px) {
+
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
 
     .meal-photo img:hover {
         opacity: 1;
-        -webkit-transform: scale(1.08);
-        -ms-transform: scale(1.08);
-        transform: scale(1.08);
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
     }
 
     .meal-photo img {
