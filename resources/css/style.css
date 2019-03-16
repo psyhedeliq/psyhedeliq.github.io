@@ -235,7 +235,7 @@ header {
     float: right;
     list-style: none;
     margin-top: 55px;
-    margin-right: 225px;
+    margin-right: auto;
 }
 
 .main-nav li {
