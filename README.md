@@ -22,5 +22,5 @@ These instructions will get you a copy of the project up and running on your loc
   * CSS3
   * jQuery
   
-  ## Contributors ##
-    * Filip Cornel Cristian
+## Contributors ##
+  * Filip Cornel Cristian
