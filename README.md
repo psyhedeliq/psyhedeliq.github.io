@@ -16,3 +16,11 @@ These instructions will get you a copy of the project up and running on your loc
   3. Explore  
   
     Enjoy :)
+
+## Build With ##
+  * HTML5
+  * CSS3
+  * jQuery
+  
+  ## Contributors ##
+    * Filip Cornel Cristian
