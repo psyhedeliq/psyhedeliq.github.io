@@ -1,9 +1,11 @@
 # Project - Omnifood #
+
 [Omnifood](https://psyhedeliq.github.io/)  
 
 This is a website for a food delivery service.
 
 ## Getting Started ##
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing ###
@@ -27,6 +29,7 @@ Enjoy :)
 ```
 
 ## Build With ##
+
 * HTML5
 * CSS3
 * jQuery
