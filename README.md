@@ -32,4 +32,5 @@ Enjoy :)
 * jQuery
   
 ## Contributors ##
+
 * **Filip Cornel Cristian**
